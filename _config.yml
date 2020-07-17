@@ -12,13 +12,12 @@ author: DITO-Lab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About DITO-Labs: "aboutme"
+  About: "aboutme"
   Resources:
     - Cash Advance and Petty Cash Fund Policies: "#"
     - Performance Management Scorecard: "#"
     - Travel Booking Process & Guidelines: "#"
     - Office Access and Shuttle Service Request Guidelines: "#"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -88,7 +87,7 @@ excerpt_length: 50
 
 navbar-col: "#0f63ab"
 navbar-text-col: "#d32653"
-navbar-border-col: "#0f63ab"
+navbar-border-col: "#d32653"
 page-col: "#fcffff"
 link-col: "#008AFF"
 hover-col: "#0085A1"

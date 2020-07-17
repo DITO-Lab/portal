@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: DITO-Lab
+subtitle: DITO-Lab is a community of DITO Technology employees that develops in-house applications
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Curent Members:**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- John Paulo Mataac (@cyberpau)
+- Jeremy Feng
 
-What else do you need?
+If you also want to contribute, please send us an email.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Developed Applications:
+- HR Chatbot
+- HR Portal Template #1 (static site via Github Pages)
+- HR Portal Template #2 (dynamic / blogstyle using Jekyll & Github Pages)
